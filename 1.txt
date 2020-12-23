@@ -1,1 +1,2 @@
 This is the first file created for devops training.
+This file is modified after I have created instance thru EC2
